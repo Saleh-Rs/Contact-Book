@@ -180,7 +180,7 @@ def restore_search(event):
 
 
 window = Tk()
-window.title('Notes App')
+window.title('Contact Book')
 window.geometry('800x890+560+60')
 window.resizable(False, False)
 window.config(bg="#e4deff")
